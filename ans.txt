@@ -1,1 +1,2 @@
-Enter employee type: Enter salary: Enter OtHrs : Net salary is 13400
+Enter a number: Factorial of 8 is 40320
+Factorial of 8 is 40320
