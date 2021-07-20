@@ -28,6 +28,8 @@ int main() {
   return 0;
 }
 
+
+//function definitions
 long Factorial(int no){
   int i;
   long fac = 1;
